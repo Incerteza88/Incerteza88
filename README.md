@@ -1,7 +1,7 @@
 ## 👋 ¡Hola! Bienvenido a mi perfil
 
 ### Eduardo García Valverde  
-*Desarrollador Web & Futuro Ingeniero de Software*  
+*Desarrollador Web Full Stack*  
 📍 Peñaranda de Bracamonte, Salamanca
 
 ---
