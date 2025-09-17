@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un apasionado del desarrollo web, actualmente en formación como Ingeniero de Software. Me interesa crear soluciones funcionales, modernas y accesibles.  
+Soy un apasionado del desarrollo web, actualmente acabo de obtener mi certificado como desarrollador de software full-stack. Me interesa crear soluciones funcionales, modernas y accesibles.  
 Estoy comprometido con el aprendizaje constante y la mejora continua, tanto en frontend como en backend.
 
 ---
