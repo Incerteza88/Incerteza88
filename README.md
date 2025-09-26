@@ -29,15 +29,6 @@ Estoy comprometido con el aprendizaje constante y la mejora continua, tanto en f
 
 ---
 
-## 🚀 Actualmente aprendiendo
-
-- Arquitectura de software
-- Patrones de diseño
-- Backend con Python y FastAPI
-- Pruebas automatizadas
-- Buenas prácticas de Git y GitHub
-
----
 
 ## 📫 Contacto
 
